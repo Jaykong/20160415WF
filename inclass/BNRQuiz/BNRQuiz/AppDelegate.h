@@ -1,0 +1,20 @@
+//
+//  AppDelegate.h
+//  BNRQuiz
+//
+//  Created by franda on 16/4/20.
+//  Copyright © 2016年 franda. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+//自动生成实例变量——window
+// 自动生成取值设值方法
+//self.window
+
+@end
+
